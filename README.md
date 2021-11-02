@@ -1,4 +1,4 @@
-# Django-Triple-DES
+# Django-Triple-DES-Crypto
 A simple web page built using Django that encrypts and decrypts images using TRIPLE DES ALGORITHM
 
 The Triple DES algorithm uses three iterations of the common DES cipher. It receives a secret 168-bit key, which is divided into three 64-bit keys. The least significant 
