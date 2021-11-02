@@ -11,4 +11,5 @@ of the three keys contains 8 parity bits that are not used during the encryption
     • Encryption using the third secret key
 
 Encryption: c = E3 (D2 (E1 (m)))
+
 Decryption: m = D1 (E2 (D3(c)))
